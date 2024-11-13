@@ -1,4 +1,4 @@
-# Asana_Automation Test Automation Framework
+# Test Automation Framework Playwright
 
 A test automation framework built using Playwright for end-to-end testing of web applications. This framework supports parallel test execution, multiple browser testing.
 
